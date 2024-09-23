@@ -864,7 +864,7 @@ color: crimson !important ;
 @media (max-width: 575.98px) {
 
   .owner-splash {
-    background-image: url(/MathrubhumiGroup/People/Mamaji-image.png) !important;
+    background-image: url(./People/Mamaji-image.png) !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -936,7 +936,7 @@ color: crimson !important ;
 .owner-splash img:before {
 content: '';
 position: absolute;
-background: url(/MathrubhumiGroup/splash.png);
+background: url(./splash.png);
 background-size: 100%;
 width: 100%;
 height: 100%;
@@ -961,7 +961,7 @@ z-index: 100;
 .why-us {
   padding: 0;
   position: relative;
-  background-image: url(/MathrubhumiGroup/logo/doodler-bg.webp);
+  background-image: url(./logo/doodler-bg.webp);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1034,7 +1034,7 @@ z-index: 100;
 
 
 #what-we-offer {
-  background-image: url(/MathrubhumiGroup/Png_cards/bg-blobber.svg);
+  background-image: url(./Png_cards/bg-blobber.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
