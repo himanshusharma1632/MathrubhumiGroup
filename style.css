@@ -624,7 +624,7 @@ color: #fff !important;
     background-color: rgba(247, 222, 58, 1);
   }
 }
-  /*-------------------------------------------------------------- /
+/*------------------------------------------------------------ /
 # Featured Services
 --------------------------------------------------------------*/
 
@@ -756,7 +756,7 @@ color: crimson !important ;
 }
 
 .owner-blob {
-  background-image: url(/logo/owner_blob.svg);
+  background-image: url(./logo/owner_blob.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-origin: border-box;
@@ -764,7 +764,7 @@ color: crimson !important ;
 }
 
 .owner-splash {
-  background-image: url(/People/Mamaji-image.webp);
+  background-image: url(./People/Mamaji-image.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -864,7 +864,7 @@ color: crimson !important ;
 @media (max-width: 575.98px) {
 
   .owner-splash {
-    background-image: url(./Gallery/People/Mamaji-image.png) !important;
+    background-image: url(./People/Mamaji-image.png) !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -936,7 +936,7 @@ color: crimson !important ;
 .owner-splash img:before {
 content: '';
 position: absolute;
-background: url(splash.png);
+background: url(./splash.png);
 background-size: 100%;
 width: 100%;
 height: 100%;
@@ -961,7 +961,7 @@ z-index: 100;
 .why-us {
   padding: 0;
   position: relative;
-  background-image: url(./Gallery/logo/doodler-bg.webp);
+  background-image: url(./logo/doodler-bg.webp);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1034,7 +1034,7 @@ z-index: 100;
 
 
 #what-we-offer {
-  background-image: url(./Gallery/Png_cards/bg-blobber.svg);
+  background-image: url(./Png_cards/bg-blobber.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1232,14 +1232,14 @@ z-index: 100;
 @media (max-width : 575.98px) {
   #counts {
     background-position: center;
-    background-image: url(./Gallery/logo/counts-blob-small.svg) !important;
+    background-image: url(./logo/counts-blob-small.svg) !important;
     background-size: contain;
     height: auto;
   }
 }
 
 #counts {
-  background-image: url(./Gallery/logo/counts-blob.svg);
+  background-image: url(./logo/counts-blob.svg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat !important;
