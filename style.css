@@ -756,7 +756,7 @@ color: crimson !important ;
 }
 
 .owner-blob {
-  background-image: url(/MathrubhumiGroup/logo/owner_blob.svg);
+  background-image: url(./logo/owner_blob.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-origin: border-box;
@@ -764,7 +764,7 @@ color: crimson !important ;
 }
 
 .owner-splash {
-  background-image: url(/MathrubhumiGroup/People/Mamaji-image.webp);
+  background-image: url(./People/Mamaji-image.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
