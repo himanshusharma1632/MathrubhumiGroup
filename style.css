@@ -45,19 +45,6 @@ border-radius: 0;
 animation: shake 1.5s infinite;
 }
 
-/* ---------------------------------------------------------------
--------- Navbar Elements Always Visible In Larger Screens --------
---------------------------------------------------------------- */
-
-@media (max-width: 991.98px) {
-  .navbar-collapse {
-    display: none !important;
-  }
-  .navbar-collapse.show {
-    display: block !important;
-  }
-}
-
 /* ---------------------------------------------------
 --------No bootstrap Borders in small devices --------
 ----------------------------------------------------- */
